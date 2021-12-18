@@ -1,0 +1,19 @@
+body {
+    background:rgb(119, 39, 83);
+    color: white;
+}
+
+.heading {
+    width: 80%;
+    font-size: 32px;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 360px;
+    height: 300px;
+}
+
+.name_of_person,#result_person_name,#result_person_accuracy {
+    color: skyblue;
+}
